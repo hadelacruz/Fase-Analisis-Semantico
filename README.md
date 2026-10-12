@@ -16,6 +16,15 @@ programa.cps  ──►  ANTLR  ──►  Analisis semantico  ──►  TAC  �
 > **ANTLR 4.13.1**; análisis semántico y generación de código intermedio
 > implementados sobre *Visitors* en Python.
 
+## 🎬 Entrega — Fase 2
+
+| Entregable | Enlace |
+| --- | --- |
+| Video de demostración | https://youtu.be/f_1X_j0axAA |
+| Arquitectura de la implementación (PDF) | [docs/Arquitectura.pdf](docs/Arquitectura.pdf) |
+| Diseño del lenguaje intermedio | [docs/CODIGO_INTERMEDIO.md](docs/CODIGO_INTERMEDIO.md) |
+| Cómo ejecutar el compilador | [docs/EJECUCION.md](docs/EJECUCION.md) |
+
 ---
 
 ## 🚀 Inicio rápido
